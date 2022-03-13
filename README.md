@@ -115,3 +115,4 @@ Usando o $cond dentro dos operadores de acumulação como o $sum e $addToSet é 
 * [CRUD MongoDB](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
 * [MongoDB Shell Commands Cheat Sheet](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c)
 * [MongoDB Cheat Sheet](https://www.zuar.com/blog/mongodb-cheat-sheet/)
+* [MongoDB - Cheat Sheet (Codecentric)](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
