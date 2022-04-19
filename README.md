@@ -110,7 +110,7 @@ Usando o $cond dentro dos operadores de acumulação como o $sum e $addToSet é 
 ```
 
 
-## More Tips
+## Mais snippets
 
 * [CRUD MongoDB](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
 * [MongoDB Shell Commands Cheat Sheet](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c)
