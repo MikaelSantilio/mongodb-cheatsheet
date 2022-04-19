@@ -3,18 +3,18 @@
 ----
 
 
-## Table of Contents
+<!--- ## Table of Contents
 
-* **[Nested Snippets](#nested-snippets)**
-  * [Max/Min By](#maxmin-by)
+// * **[Nested Snippets](#nested-snippets)**
+//  * [Max/Min By](#maxmin-by)
 
-----
-
-
-## Speed Snippets
+// ----
 
 
-## Nested Snippets
+// ## Speed Snippets
+-->
+
+# Snippets
 Operandores sendo usados juntos para criar novas operações
 ### Max/Min By
 Usando $max ou $min é possível retornar o elemento máximo/mínimo que satifaz a condição.
